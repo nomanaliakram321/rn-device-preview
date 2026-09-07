@@ -17,14 +17,16 @@
   "devDependencies": {
     "@babel/core": "^7.24.0",
     "@react-native-async-storage/async-storage": "^1.23.1",
-    "@testing-library/react-native": "^12.5.0",
+    "@testing-library/react-native": "12.5.0",
     "@types/jest": "^29.5.12",
     "@types/react": "^18.2.79",
+    "@types/react-test-renderer": "^18.3.1",
     "jest": "^29.7.0",
     "metro-react-native-babel-preset": "^0.77.0",
     "react": "18.2.0",
     "react-native": "0.74.1",
     "react-native-svg": "15.8.0",
+    "react-test-renderer": "18.2.0",
     "typescript": "^5.4.5"
   },
   "keywords": [
@@ -41,5 +43,13 @@
   "scripts": {
     "test": "jest"
   },
-  "author": ""
+  "author": "Noman Akram <nomanakram1999@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomanaliakram321/rn-device-preview.git"
+  },
+  "homepage": "https://github.com/nomanaliakram321/rn-device-preview#readme",
+  "bugs": {
+    "url": "https://github.com/nomanaliakram321/rn-device-preview/issues"
+  }
 }
