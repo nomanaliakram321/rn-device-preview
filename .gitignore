@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+.claude/
+.superpowers/
+.sdd-experiment/
+AGENTS.md
+CLAUDE.md
